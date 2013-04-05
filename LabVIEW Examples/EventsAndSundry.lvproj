@@ -19,7 +19,7 @@
 			<Item Name="FlakyDelegate.vi" Type="VI" URL="../Support/FlakyDelegate.vi"/>
 		</Item>
 		<Item Name="01 - Syntax - Event API Syntax and Semantics.vi" Type="VI" URL="../Demonstrations/01 - Syntax - Event API Syntax and Semantics.vi"/>
-		<Item Name="02 - Demonstration - Event Queue Decoupled from Generation.vi" Type="VI" URL="../Support/Additional Demonstrations/02 - Demonstration - Event Queue Decoupled from Generation.vi"/>
+		<Item Name="02 - Demonstration - Event Queue Decoupled from Generation.vi" Type="VI" URL="../Demonstrations/02 - Demonstration - Event Queue Decoupled from Generation.vi"/>
 		<Item Name="03 - Demonstration - High Throughput Transport Mechanism.vi" Type="VI" URL="../Demonstrations/03 - Demonstration - High Throughput Transport Mechanism.vi"/>
 		<Item Name="04 - Demonstration - Dynamically Rebind Event Handlers.vi" Type="VI" URL="../Demonstrations/04 - Demonstration - Dynamically Rebind Event Handlers.vi"/>
 		<Item Name="05 - Demonstration - Effect of Branching Event Registration.vi" Type="VI" URL="../Demonstrations/05 - Demonstration - Effect of Branching Event Registration.vi"/>
@@ -33,6 +33,7 @@
 		<Item Name="12 - Design Pattern - Reusable Event Handlers (as a Brat VI).vi" Type="VI" URL="../Demonstrations/12 - Design Pattern - Reusable Event Handlers (as a Brat VI).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
 				<Item Name="Draw Line.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Line.vi"/>
 				<Item Name="Empty Picture" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Empty Picture"/>
@@ -44,15 +45,13 @@
 				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 			</Item>
-			<Item Name="mscorlib" Type="VI" URL="mscorlib">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="System" Type="VI" URL="System">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="TreeSelectBratCallback.vi" Type="VI" URL="../Support/TreeSelectBratCallback.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
