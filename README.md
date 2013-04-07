@@ -13,3 +13,6 @@ Getting started with this demo
     * Downlad the Zipball: https://github.com/wirebirdlabs/CLA-Summit-2013-Paris/archive/master.zip
 2. Open _EventsAndSundry.lvproj_, located in the root of the repo.
 3. Browse through each of the 13 Demos, Tips, Benchmarks, and Design Patterns
+
+
+![ScreenShot](https://raw.github.com/wirebirdlabs/CLA-Summit-2013-Paris/master/Screenshots/Title.png)
