@@ -9,7 +9,7 @@ Visit us at: https://wirebirdlabs.com
 Getting started with this demo
 ------------------------------
 1. Clone the repo onto your local machine using one of the following methods:
-  +. Git clone: https://github.com/wirebirdlabs/CLA-Summit-2013-Paris.git
-  +. Downlad the Zipball: https://github.com/wirebirdlabs/CLA-Summit-2013-Paris/archive/master.zip
+    * Git clone: https://github.com/wirebirdlabs/CLA-Summit-2013-Paris.git
+    * Downlad the Zipball: https://github.com/wirebirdlabs/CLA-Summit-2013-Paris/archive/master.zip
 2. Open _EventsAndSundry.lvproj_, located in the root of the repo.
 3. Browse through each of the 13 Demos, Tips, Benchmarks, and Design Patterns
