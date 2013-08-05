@@ -1,6 +1,8 @@
 LabVIEW User Events Tips, Tricks, and Sundry
 =================================================================
-CLA Summit Presentation - Paris, France - April 2013
+Rendetions of this project presented at:
+* NIWeek 2013 - Austin, TX - August 2013
+* European CLA Summit Presentation - Paris, France - April 2013
 
 Whether new to User Events in LabVIEW, or if you've used them since they debuted 10yrs ago, this presentation is geared toward revealing the minutiae of both Syntax and Semantics to enrich your application architectures.
 
